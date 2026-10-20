@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "fecha": "2026-10-20",
+  "url": "",
+  "novedades": [
+    "Ciudad ilustrada y animada con el skyline de las Cuatro Torres de Madrid (cinco torres).",
+    "Ciclo de día y noche real según la posición del sol y la luna, con sus fases.",
+    "El tiempo real de tu localidad: AEMET en España (con clave gratuita) y MET Norway en el resto del mundo.",
+    "Despejado, nubes, cubierto, niebla densa, llovizna, lluvia, nieve y tormenta con rayos, cada uno con su intensidad.",
+    "La lluvia prolongada cierra el cielo y la nieve cuaja poco a poco en tejados, aceras, calzada y coches.",
+    "Árboles que cambian con las estaciones: flor en primavera, colores y hojas que caen en otoño, ramas desnudas en invierno.",
+    "Tráfico y peatones según la hora, con semáforo, paso de cebra y atascos en hora punta.",
+    "Tiendas con horario español, carteles OPEN/CLOSED y persianas por la noche; tendederos con ropa.",
+    "Pájaros, palomas que se posan, aviones con estela y humo en las chimeneas cuando hace frío.",
+    "Halloween (octubre) y Navidad (del 15 de noviembre al 6 de enero).",
+    "Panel del tiempo con selector de localidad y teclado en pantalla (funciona sin teclado físico).",
+    "Reloj grande y minimalista arriba en el centro, con la hora de tu localidad (opcional: hora, hora y fecha, formato 12 h).",
+    "Sirve también como salvapantallas (pasos en LEEME.txt).",
+    "Funciona en Wallpaper Engine y en Lively Wallpaper (gratuito), con las mismas opciones: ciudad, fuente del tiempo, clave de AEMET, eventos y modos de prueba."
+  ]
+}
